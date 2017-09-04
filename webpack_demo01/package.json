@@ -1,0 +1,16 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo hi, This is error info",
+    "webpack": "webpack --config webpack.config.js --watch --progress --dispaly-modules --colors --display-reason"
+  },
+  "author": "jsaon",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^1.14.0"
+  }
+}

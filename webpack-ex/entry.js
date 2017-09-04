@@ -1,0 +1,1 @@
+console.log('this is a basic example for webpack starter');
